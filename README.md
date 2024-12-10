@@ -2,7 +2,7 @@
 - 🏗️ My passion is clean code and clean architecture 
 - 🧯 I like to do refactoring and work with legacy️ code
 - 👨‍🎓 I am a mentor
-- 🔭 Working on big pet-project [R-Stat](https://about.r-stat.org/)
+- 🔭 Working on big pet-project [R-Stat](https://r-stat.org/)
 - 💬 Ask me about
   - 🦫 Golang
   - 🧪 Testing
